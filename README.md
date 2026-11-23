@@ -1,0 +1,17 @@
+# CashView — Téléchargement
+
+Application Android pour regarder des publicités récompensées et gagner des pièces, retirables en Mobile Money (Togo).
+
+**[⬇️ Télécharger la dernière version](../../releases/latest)** → ouvrez la page puis touchez **CashView.apk**.
+
+## Installation (Android)
+1. Téléchargez **CashView.apk** depuis la page ci-dessus.
+2. Ouvrez le fichier. Si Android demande d'autoriser l'installation depuis ce navigateur, touchez **Paramètres** puis activez l'autorisation.
+3. Si Google Play Protect affiche un avertissement (l'application ne vient pas du Play Store), choisissez **Installer quand même**.
+4. Ouvrez CashView, créez votre compte avec votre numéro et un mot de passe.
+
+## À savoir
+- Les gains sont modestes et ne sont pas garantis. Ce n'est pas un moyen de s'enrichir.
+- Regardez les publicités jusqu'à la fin, sans les toucher.
+- Un abonnement Premium facultatif existe (plus de pubs par jour, retrait plus tôt) : il ne garantit aucun gain.
+- Support : WhatsApp +228 99 58 57 56 · obedhounon@gmail.com
