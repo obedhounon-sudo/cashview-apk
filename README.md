@@ -15,3 +15,13 @@ Application Android pour regarder des publicités récompensées et gagner des p
 - Regardez les publicités jusqu'à la fin, sans les toucher.
 - Un abonnement Premium facultatif existe (plus de pubs par jour, retrait plus tôt) : il ne garantit aucun gain.
 - Support : WhatsApp +228 99 58 57 56 · obedhounon@gmail.com
+
+---
+
+# TournoiFF — Téléchargement
+
+Application Android pour organiser et suivre des tournois Free Fire : création de tournois, inscription des équipes, salle privée, saisie des résultats et classement automatique. Gratuite, en français. Application indépendante, non affiliée à Garena.
+
+**[⬇️ Télécharger TournoiFF.apk](https://github.com/obedhounon-sudo/cashview-apk/raw/main/TournoiFF.apk)** (56 Mo).
+
+Même installation que ci-dessus. Si vous avez déjà un compte CashView, utilisez le même numéro et le même mot de passe (choisissez « Inscription » la première fois pour donner votre nom).
